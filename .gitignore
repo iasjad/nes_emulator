@@ -1,0 +1,58 @@
+# Visual Studio files
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.userosscache
+*.sdf
+*.ipch
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+
+# Build results
+Debug/
+Release/
+x64/
+x86/
+ARM/
+ARM64/
+build/
+out/
+*.obj
+*.pdb
+*.idb
+*.ilk
+*.exe
+*.dll
+*.lib
+*.exp
+*.log
+
+
+
+# OS-specific
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Compiled source
+*.com
+*.class
+*.so
+*.dylib
+*.ncb
+
+# Backup and temp files
+*~
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# NES Emulator specific 
+*.nes
+*.sav
+*.state
+*.log
